@@ -1,0 +1,24 @@
+-----YOLOv5-----(folder yolov5)
+
+# Shell commands:
+
+cd YOLOv5
+pip install -r requirements.txt
+python train.py --img 416 --batch 12 --epochs 100 --data 'data.yaml' --cfg 'custom_model.yaml' --weights 'yolov5l.pt'
+
+# file yolov5l.pt: https://github.com/ultralytics/yolov5/releases/download/v1.0/yolov5l.pt
+# python train.py --resume để tiếp tục train
+
+
+
+
+-----SSD-----(folder gluon-cv)
+
+# Để train cần sửa đường dẫn tới dataset ở hàng 111, 112 ở file train_ssd.py và chạy file đó:
+# Shell commands:
+
+cd gluon-cv
+pip3 install --upgrade gluoncv mxnet-cu110
+python train_ssd.py --batch-size 12 --save-prefix 'custom_' --save-interval 5
+
+# Thêm --resume [Đường dẫn tới thư mục chứa  các file weights để train tiếp tục]
