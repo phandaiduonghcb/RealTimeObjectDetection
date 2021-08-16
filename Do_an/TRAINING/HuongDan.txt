@@ -6,6 +6,7 @@ cd YOLOv5
 pip install -r requirements.txt
 python train.py --img 416 --batch 12 --epochs 100 --data 'data.yaml' --cfg 'custom_model.yaml' --weights 'yolov5l.pt'
 
+# Muốn train  trên custom dataset thì cần chỉnh sửa ở file data.yaml và custom_model.yaml
 # file yolov5l.pt: https://github.com/ultralytics/yolov5/releases/download/v1.0/yolov5l.pt
 # python train.py --resume để tiếp tục train
 
