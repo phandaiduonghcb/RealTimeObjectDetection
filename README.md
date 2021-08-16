@@ -15,3 +15,6 @@
  - Tập train valid cho SSD Resnet50 v1 (VOC format): https://drive.google.com/u/0/uc?id=1ItD2d_6CxjyeDog6g4dkEwv6MVGFLYw-&export=download
  - Tập train valid (chưa tăng cường) (VOC format): https://drive.google.com/u/0/uc?id=1pM2ZfFsTyyzUgeQR5YEVp_44-A3IX1zB&export=download
  - Tập test (YOLO format): https://drive.google.com/u/0/uc?id=1VwuYWbHBbTR_DfDY4KJN8Z4m4HUmcW85&export=download
+ 
+ * File weights đã train từ YOLOv5: https://drive.google.com/u/0/uc?id=1-bjOKwc6RBqJHd4XCEHK3-iWQe01iCmr&export=download
+ * File weights đã train từ SSD Resnet50 v1: https://drive.google.com/u/0/uc?id=10DabiR5vEB_niADBl_4_G_fnmWN_F8NH&export=download
