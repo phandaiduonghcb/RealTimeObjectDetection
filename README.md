@@ -12,6 +12,7 @@
  - Github: https://github.com/19521564
 ## Dataset for the project: Real-time object detection on baby products (built by ourselves)
 Code for training in https://github.com/phandaiduonghcb/RealTimeObjectDetection/tree/main/Do_an/TRAINING
+
 The number of images in TRAIN/VALID before augmentation is over 17000 images.
 The number of images in TEST before augmentation is over 800 images.
 
