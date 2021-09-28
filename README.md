@@ -10,8 +10,7 @@
  - MSSV: 19521564
  - Lớp CS114.L21
  - Github: https://github.com/19521564
-## Data cho đồ án: Nhận diện sản phẩm thương mại
-Data for the projects: Real-time object detection on baby products (built by ourselves)
+## Data for the projects: Real-time object detection on baby products (built by ourselves)
 Code for training in https://github.com/phandaiduonghcb/RealTimeObjectDetection/tree/main/Do_an/TRAINING
  - Tập TRAIN/ VALID (augmented) cho YOLOv5 (YOLO format): https://drive.google.com/uc?id=1Ye8MgdDedFNB-oDnGCSh_iOXImgLeeG4
  - Tập TRAIN/ VALID (augmented) cho SSD Resnet50 v1 (VOC format): https://drive.google.com/u/0/uc?id=1ItD2d_6CxjyeDog6g4dkEwv6MVGFLYw-&export=download
