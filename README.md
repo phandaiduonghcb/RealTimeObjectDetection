@@ -1,16 +1,16 @@
-# Phan Đại Dương
+## Phan Đại Dương
  - MSSV: 19520482
  - Lớp: CS114.L21
  - Github: https://github.com/phandaiduonghcb
-# Hồ Mỹ Hạnh
+## Hồ Mỹ Hạnh
  - MSSV: 19521470
  - Lớp: CS114.L21
  - Github: https://github.com/homyhanh
-# Huỳnh Văn Hùng
+## Huỳnh Văn Hùng
  - MSSV: 19521564
  - Lớp CS114.L21
  - Github: https://github.com/19521564
-# Data cho đồ án: Nhận diện sản phẩm thương mại
+## Data cho đồ án: Nhận diện sản phẩm thương mại
  - Tập train valid cho YOLOv5 (YOLO format): https://drive.google.com/uc?id=1Ye8MgdDedFNB-oDnGCSh_iOXImgLeeG4
  - Tập train valid cho SSD Resnet50 v1 (VOC format): https://drive.google.com/u/0/uc?id=1ItD2d_6CxjyeDog6g4dkEwv6MVGFLYw-&export=download
  - Tập train valid (chưa tăng cường) (VOC format): https://drive.google.com/u/0/uc?id=1pM2ZfFsTyyzUgeQR5YEVp_44-A3IX1zB&export=download
