@@ -10,7 +10,7 @@
  - MSSV: 19521564
  - Lớp CS114.L21
  - Github: https://github.com/19521564
-## Dataset for the project: Real-time object detection on baby products (built by ourselves)
+## Dataset for the project: Real-time object detection on baby products:
 Code for training in https://github.com/phandaiduonghcb/RealTimeObjectDetection/tree/main/Do_an/TRAINING
 
 The number of images in TRAIN/VALID before augmentation is over 17000 images.
